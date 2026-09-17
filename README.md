@@ -36,6 +36,8 @@ NECROBIN reads **bytes on disk**. It does not load the sample as a program,
 does not emulate it, and does not send the file anywhere. Hash lookups (optional)
 submit a digest only.
 
+![necrobin](images/necrobin.png)
+
 ```
   ✝  the body is on the slab
   🧿  we note what it was wearing
